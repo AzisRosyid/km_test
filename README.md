@@ -6,9 +6,9 @@ Ini adalah proyek aplikasi mobile yang dibangun menggunakan Flutter sebagai bagi
 ## **Tampilan Aplikasi**
 
 Berikut adalah tampilan dari setiap layar aplikasi:
-**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeY67hTdEfztr56a3YKB16vKdvVtMIEn45OBO0-PU1KdAl1xmE4brn-Oog1794cunXS-eMDHFDu2GhPrXrFYa8S48FAu4_7wbsXV6z1UeTNw7FWSpTsLjqNQqGogaY-_C5r1CXk?key=Mt-YkpOiPPl7EXs217mn6g)**
-**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeTKySMOdEg45Uf-9lpcHGrxQWVWOXRYRKhiYPZtxDbTP6-F0CEJyiXPTEs5Htgwg7Fb3hTTHKFjkVxeG7fY6YrCMfPjFg-zWpzIP8QjtAq-KAoAorQcItUDOEu4N2pe-DFWUfBPg?key=Mt-YkpOiPPl7EXs217mn6g)**
-**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdsB4o_RLfDY2IY3yrjQUeOpLNJBQAn4hsxs_oAoHaRQYPxYs-OIxlT8OLs8cdHQDQdbQncN3CDk3TI2QCy6DoPWleZBRf_vEiX3J35wprz-QIptIOTiG-rX8ll8gmJiFunLpJ8Ag?key=Mt-YkpOiPPl7EXs217mn6g)**
+***![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeY67hTdEfztr56a3YKB16vKdvVtMIEn45OBO0-PU1KdAl1xmE4brn-Oog1794cunXS-eMDHFDu2GhPrXrFYa8S48FAu4_7wbsXV6z1UeTNw7FWSpTsLjqNQqGogaY-_C5r1CXk?key=Mt-YkpOiPPl7EXs217mn6g)**
+***![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeTKySMOdEg45Uf-9lpcHGrxQWVWOXRYRKhiYPZtxDbTP6-F0CEJyiXPTEs5Htgwg7Fb3hTTHKFjkVxeG7fY6YrCMfPjFg-zWpzIP8QjtAq-KAoAorQcItUDOEu4N2pe-DFWUfBPg?key=Mt-YkpOiPPl7EXs217mn6g)**
+***![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdsB4o_RLfDY2IY3yrjQUeOpLNJBQAn4hsxs_oAoHaRQYPxYs-OIxlT8OLs8cdHQDQdbQncN3CDk3TI2QCy6DoPWleZBRf_vEiX3J35wprz-QIptIOTiG-rX8ll8gmJiFunLpJ8Ag?key=Mt-YkpOiPPl7EXs217mn6g)**
 
 
 
