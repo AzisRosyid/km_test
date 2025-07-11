@@ -66,9 +66,9 @@ Untuk menjalankan proyek ini di lingkungan lokal Anda, ikuti langkah-langkah ber
 
 1. **Prasyarat**
 
-- Pastikan Anda telah menginstal [Flutter SDK](https://flutter.dev/docs/get-started/install).
+    - Pastikan Anda telah menginstal [Flutter SDK](https://flutter.dev/docs/get-started/install).
 
-- Sebuah IDE seperti VS Code atau Android Studio.
+    - Sebuah IDE seperti VS Code atau Android Studio.
 
 2. **Clone Repositori**\
    git clone \[URL\_REPOSITORI\_ANDA]\
@@ -80,11 +80,11 @@ Untuk menjalankan proyek ini di lingkungan lokal Anda, ikuti langkah-langkah ber
 
 4. **Siapkan Aset**
 
-- Buat folder assets/images/ di direktori utama proyek.
+    - Buat folder assets/images/ di direktori utama proyek.
 
-- Tempatkan file background.png dan ic\_photo.png di dalamnya.
+    - Tempatkan file background.png dan ic\_photo.png di dalamnya.
 
-- Pastikan pubspec.yaml sudah mendaftarkan folder aset:\
+    - Pastikan pubspec.yaml sudah mendaftarkan folder aset:\
   flutter:\
     assets:\
       - assets/images/
